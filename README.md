@@ -76,5 +76,4 @@ retail-analytics-dashboard/
 │ └── dashboard.pbix
 │── dataset/
 │ └── sales_data.csv
-│── images/
-│ └── dashboard.png
+
